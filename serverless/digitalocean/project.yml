@@ -10,3 +10,4 @@ packages:
           environment:
             GEO_SERVER_URL: "${GEO_SERVER_URL}"
             GEO_SERVER_PORT: "${GEO_SERVER_PORT}"
+            GEO_SERVER_ACCESS_TOKEN: "${GEO_SERVER_ACCESS_TOKEN}"
